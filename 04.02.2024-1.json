@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Martin",
+    "age": 77,
+    "address": {
+        "street": "Carter Circle",
+        "city": "East Randallmouth",
+        "state": "Arkansas",
+        "zip": "02390"
+    },
+    "contact": {
+        "phone": "(662)387-8710x9458",
+        "servicePhone": "800796410"
+    },
+    "birthday": "1948-18-04",
+    "ip": "2.80.193.82",
+    "foo": "bar",
+    "profile": {
+        "about": "No whether continue perform. Clearly half necessary participant indicate. Leader approach however help again east.\nWeek doctor against movie.",
+        "bio": "Old establish many challenge south dark sit. Among speech thing each. Expect pressure loss son strong how."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
