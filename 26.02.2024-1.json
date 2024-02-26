@@ -1,0 +1,25 @@
+{
+    "name": "Terry Rivera",
+    "age": 95,
+    "address": {
+        "street": "Rios Station",
+        "city": "Petersview",
+        "state": "Oregon",
+        "zip": "04299"
+    },
+    "contact": {
+        "phone": "+1-500-584-3887",
+        "servicePhone": "800861839"
+    },
+    "birthday": "1930-22-05",
+    "ip": "4.55.110.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Case Mrs term coach stock month if. Maybe believe sell mission almost black always. Why energy allow room Republican.",
+        "bio": "Want technology method center sell player.\nFeel relationship wonder music former. Camera light hour something. Today let entire true item able look."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
