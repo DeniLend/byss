@@ -1,0 +1,25 @@
+{
+    "name": "Emily Gentry",
+    "age": 24,
+    "address": {
+        "street": "Ayala Road",
+        "city": "Port Gilbert",
+        "state": "Hawaii",
+        "zip": "09994"
+    },
+    "contact": {
+        "phone": "(223)381-1192",
+        "servicePhone": "800891280"
+    },
+    "birthday": "2001-22-10",
+    "ip": "122.8.33.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular usually method two. Charge generation month determine. Mrs guy two.",
+        "bio": "Cold PM before performance. Federal consumer its seat cup town year doctor. Theory conference condition for bar."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
