@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Bridges",
+    "age": 71,
+    "address": {
+        "street": "Mark Bridge",
+        "city": "South Shannonberg",
+        "state": "Nevada",
+        "zip": "80406"
+    },
+    "contact": {
+        "phone": "+1-756-443-1433x692",
+        "servicePhone": "800933234"
+    },
+    "birthday": "1954-29-05",
+    "ip": "112.76.11.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Myself word everybody trip.\nNow few magazine toward traditional.\nLate language tree us career gas. Tough body yard him fill night arrive.\nBuild firm feel off member.",
+        "bio": "Very still vote push receive close fund. Politics college cause beautiful particularly.\nDrive star there night response voice anyone. Both thousand blue within first own act."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
