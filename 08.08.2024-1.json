@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Barnes",
+    "age": 115,
+    "address": {
+        "street": "Tran Circles",
+        "city": "Stephenview",
+        "state": "Arkansas",
+        "zip": "85212"
+    },
+    "contact": {
+        "phone": "+1-230-782-1631x66017",
+        "servicePhone": "800641654"
+    },
+    "birthday": "1910-05-02",
+    "ip": "26.255.113.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense need fact number. Sign physical box will small old attorney card.\nAcross recognize forget today hope. Student owner lay show always truth.\nGet or prepare short. Citizen represent strategy.",
+        "bio": "Young southern data voice deal yourself.\nGuess mission lead indeed her kid officer. Fine purpose human role others industry. Because attorney agency question drive."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
