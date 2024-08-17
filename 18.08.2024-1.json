@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Robertson",
+    "age": 12,
+    "address": {
+        "street": "Dominic Lodge",
+        "city": "Hendersonberg",
+        "state": "Iowa",
+        "zip": "26726"
+    },
+    "contact": {
+        "phone": "+1-958-336-1749x588",
+        "servicePhone": "800353323"
+    },
+    "birthday": "2013-10-07",
+    "ip": "9.168.181.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention media special charge prove wait admit. Food development debate offer special matter.",
+        "bio": "Manager city media throw arrive table see. Message represent stand cultural despite. Social hospital leave food want TV raise."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
