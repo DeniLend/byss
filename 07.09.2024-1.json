@@ -1,0 +1,25 @@
+{
+    "name": "John Wright",
+    "age": 21,
+    "address": {
+        "street": "Johnston Greens",
+        "city": "New Kimberly",
+        "state": "Nevada",
+        "zip": "26508"
+    },
+    "contact": {
+        "phone": "995-774-4191x98931",
+        "servicePhone": "800980148"
+    },
+    "birthday": "2004-30-04",
+    "ip": "120.149.115.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject range civil voice. Win recently rise everybody believe last his while.",
+        "bio": "Later away idea improve like generation each. Against seat teacher company actually matter. Hit course teach artist rather kid.\nTrue society tree serious. Action art cut dog."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
