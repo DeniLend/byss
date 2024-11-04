@@ -1,0 +1,25 @@
+{
+    "name": "John Lowe",
+    "age": 37,
+    "address": {
+        "street": "Berry Prairie",
+        "city": "Jeremyville",
+        "state": "Kentucky",
+        "zip": "20320"
+    },
+    "contact": {
+        "phone": "(211)337-7191x45185",
+        "servicePhone": "800514956"
+    },
+    "birthday": "1988-01-01",
+    "ip": "162.117.197.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot prepare sign. Choice phone beat moment order.\nPurpose assume one argue yard. Onto forward everyone network thank. Fish later black inside throughout born dream.",
+        "bio": "Top may wind. Actually human energy enough yard different his many."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
