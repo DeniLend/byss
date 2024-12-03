@@ -1,0 +1,25 @@
+{
+    "name": "Grant Chen",
+    "age": 72,
+    "address": {
+        "street": "Anderson Neck",
+        "city": "New Victoria",
+        "state": "Colorado",
+        "zip": "78821"
+    },
+    "contact": {
+        "phone": "001-852-349-7282x549",
+        "servicePhone": "800318343"
+    },
+    "birthday": "1953-23-08",
+    "ip": "182.53.250.192",
+    "foo": "bar",
+    "profile": {
+        "about": "College me black lay use. Real analysis model small amount. Their trouble partner ok product those.\nInside piece church suggest commercial. Today suggest home player relate trouble.",
+        "bio": "Agency very generation area we fast. Range pass however man social. Their manager miss act close four subject."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
