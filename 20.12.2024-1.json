@@ -1,0 +1,25 @@
+{
+    "name": "Tami Jones",
+    "age": 18,
+    "address": {
+        "street": "Nicholas Mountain",
+        "city": "Lake Paigeport",
+        "state": "Nevada",
+        "zip": "61373"
+    },
+    "contact": {
+        "phone": "5616405689",
+        "servicePhone": "800713186"
+    },
+    "birthday": "2007-29-12",
+    "ip": "211.68.183.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold than me focus particular return. Act could nation relate speak.\nWife whole trouble gas wait. Someone option base human. Threat out hour team.\nOrder full truth seem how ball condition.",
+        "bio": "Day look class idea. Station receive door radio position small.\nArea market will see ready. Occur popular eat.\nParticular positive total west describe. Name feel network sport investment need."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
