@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Cole",
+    "age": 105,
+    "address": {
+        "street": "Armstrong Trail",
+        "city": "Stevenstad",
+        "state": "Texas",
+        "zip": "22480"
+    },
+    "contact": {
+        "phone": "+1-751-280-8835x18605",
+        "servicePhone": "800037204"
+    },
+    "birthday": "1920-29-02",
+    "ip": "55.7.116.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Future reason remain two. Cut ready charge treat beyond free.\nLeader those Republican single page business. Sea everyone fight interesting deep short. West see require both style next.",
+        "bio": "These from particular over operation. Cut structure boy. Force her six necessary.\nTerm same remain nor."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
