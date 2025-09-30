@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Williams DDS",
+    "age": 84,
+    "address": {
+        "street": "Patrick Trace",
+        "city": "East Rebeccachester",
+        "state": "Nevada",
+        "zip": "74133"
+    },
+    "contact": {
+        "phone": "(821)608-8856x863",
+        "servicePhone": "800102026"
+    },
+    "birthday": "1941-07-12",
+    "ip": "204.190.144.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice four southern family into weight. Brother national early around. Decide painting movement central save style.",
+        "bio": "Perform event fish nice.\nHowever necessary contain human. A international after its begin tonight stand.\nGrowth fight seven agree board word hit. Debate better something spring guy."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
