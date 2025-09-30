@@ -1,0 +1,25 @@
+{
+    "name": "Richard Perez",
+    "age": 109,
+    "address": {
+        "street": "Davis Avenue",
+        "city": "Lake Gregory",
+        "state": "Minnesota",
+        "zip": "53859"
+    },
+    "contact": {
+        "phone": "557.570.8419x6522",
+        "servicePhone": "800296825"
+    },
+    "birthday": "1916-08-04",
+    "ip": "51.87.10.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek four prove dog into with trial. Rich no girl from. Degree law learn professor people sea skill.",
+        "bio": "Player probably west southern. Organization sit history couple throw order show. If then thank."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
