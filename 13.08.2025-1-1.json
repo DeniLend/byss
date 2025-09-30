@@ -1,0 +1,25 @@
+{
+    "name": "Mark Diaz",
+    "age": 102,
+    "address": {
+        "street": "Glenda Greens",
+        "city": "Lake Jonathanburgh",
+        "state": "New Hampshire",
+        "zip": "69614"
+    },
+    "contact": {
+        "phone": "(762)887-6604x85680",
+        "servicePhone": "800605860"
+    },
+    "birthday": "1923-19-05",
+    "ip": "194.49.82.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Difficult indicate property source. Walk writer give wall continue.\nPractice natural training whose. South reason keep. Suffer out yet civil federal think number.",
+        "bio": "Direction fill coach article check worry follow. Civil happen wish yet. Mother course policy garden.\nFoot light rise character piece eye dark. Economic but nation page mean."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

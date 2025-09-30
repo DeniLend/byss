@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Collier",
+    "age": 53,
+    "address": {
+        "street": "Rodriguez Ridges",
+        "city": "Lake Daltonmouth",
+        "state": "New Hampshire",
+        "zip": "30910"
+    },
+    "contact": {
+        "phone": "589-603-6097x3678",
+        "servicePhone": "800617069"
+    },
+    "birthday": "1972-10-11",
+    "ip": "216.29.141.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Job mission sister painting worry else include. Plan need theory rise.\nSingle office serious environmental full. Wait choice boy. Tough population case record approach positive.",
+        "bio": "Buy with ask fill speech theory.\nCandidate nor chair develop not hope something. Citizen cell into pay. Owner life sort simply recent."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
