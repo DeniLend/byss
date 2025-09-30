@@ -1,0 +1,25 @@
+{
+    "name": "Selena Clarke",
+    "age": 87,
+    "address": {
+        "street": "Pamela Viaduct",
+        "city": "Berryburgh",
+        "state": "West Virginia",
+        "zip": "08383"
+    },
+    "contact": {
+        "phone": "792.896.8272x883",
+        "servicePhone": "800914312"
+    },
+    "birthday": "1938-06-11",
+    "ip": "211.129.43.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Number sell beat maintain edge. Chance every check same thing relate.\nPicture hit glass pick medical. Company able class purpose.",
+        "bio": "Doctor whether consider. Magazine involve spend remember something condition more. Study movie onto two someone top."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
