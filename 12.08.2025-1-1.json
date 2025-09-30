@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Thompson",
+    "age": 87,
+    "address": {
+        "street": "Thomas Oval",
+        "city": "South Yvonne",
+        "state": "Massachusetts",
+        "zip": "49040"
+    },
+    "contact": {
+        "phone": "948-950-2587x141",
+        "servicePhone": "800528157"
+    },
+    "birthday": "1938-22-04",
+    "ip": "109.110.111.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Between against item analysis again shake ready. Require benefit lawyer catch. Far his couple wind stay address security.",
+        "bio": "Less contain four produce point law. Course she coach popular protect improve. Determine know sit.\nCourt model field dinner woman. Door attention seven blood store cut author."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

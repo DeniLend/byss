@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Delacruz",
+    "age": 62,
+    "address": {
+        "street": "Moss Expressway",
+        "city": "Chenside",
+        "state": "Indiana",
+        "zip": "68052"
+    },
+    "contact": {
+        "phone": "472.461.2627",
+        "servicePhone": "800263735"
+    },
+    "birthday": "1963-27-04",
+    "ip": "63.65.79.109",
+    "foo": "bar",
+    "profile": {
+        "about": "To gun yet. Second it discover simply four language significant themselves. Here today court whether born Mr land hope.\nSend real include employee place. Go plan play score apply everything.",
+        "bio": "Blue long television itself safe often radio. Win account conference company.\nPresent hope mouth off. Interest water common modern loss under by. Soldier partner some charge suddenly right police."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Chandler",
+    "age": 96,
+    "address": {
+        "street": "Morgan Rue",
+        "city": "East Caitlin",
+        "state": "New Hampshire",
+        "zip": "49440"
+    },
+    "contact": {
+        "phone": "+1-492-252-5457x375",
+        "servicePhone": "800025085"
+    },
+    "birthday": "1929-12-09",
+    "ip": "142.138.165.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Note prove affect beautiful. Television actually instead rate where. Despite history adult bring police baby little.",
+        "bio": "Growth too particular hold decide take. His win common news husband his dark."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Wright",
+    "age": 57,
+    "address": {
+        "street": "Lee Harbor",
+        "city": "South Amberland",
+        "state": "New York",
+        "zip": "39137"
+    },
+    "contact": {
+        "phone": "723-962-5941x80021",
+        "servicePhone": "800377793"
+    },
+    "birthday": "1968-04-05",
+    "ip": "82.100.106.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Even well single buy natural arrive. Out institution especially.\nDiscover figure hope meet air protect pass. Strategy leg industry imagine mouth language include blood.",
+        "bio": "Outside catch southern open commercial nothing. Treatment bag read across quality close indeed. Box very treatment audience every side. Social student note must."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
