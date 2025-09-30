@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gordon",
+    "age": 97,
+    "address": {
+        "street": "Zachary View",
+        "city": "West Melissa",
+        "state": "Minnesota",
+        "zip": "27755"
+    },
+    "contact": {
+        "phone": "+1-205-742-1911x1438",
+        "servicePhone": "800115154"
+    },
+    "birthday": "1928-20-12",
+    "ip": "34.185.45.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit method and fear. Wife affect per television.\nGreen former million feel arm also way. Point within parent smile ball power what. Game ahead pretty sense.",
+        "bio": "Board conference reduce. Foot usually body education win win scientist.\nAnything thought raise box board item. Alone low agree work. Study ever nor community."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
