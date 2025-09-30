@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Macias",
+    "age": 23,
+    "address": {
+        "street": "Reyes Fort",
+        "city": "Floresburgh",
+        "state": "Oklahoma",
+        "zip": "82855"
+    },
+    "contact": {
+        "phone": "695-438-7641x69463",
+        "servicePhone": "800063902"
+    },
+    "birthday": "2002-19-03",
+    "ip": "19.247.53.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly here away good. Short effort response open always imagine receive. Rather knowledge attorney sea.",
+        "bio": "Drug huge blood imagine meeting catch my.\nPainting rock wife join side avoid give. Old deep during billion car country information stand. Rather song too team."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
