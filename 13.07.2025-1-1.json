@@ -1,0 +1,25 @@
+{
+    "name": "Lori Burton",
+    "age": 38,
+    "address": {
+        "street": "Benson Roads",
+        "city": "Banksville",
+        "state": "Oklahoma",
+        "zip": "77880"
+    },
+    "contact": {
+        "phone": "3753239243",
+        "servicePhone": "800934486"
+    },
+    "birthday": "1987-21-03",
+    "ip": "149.131.143.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation world put sport tend admit.\nSchool clearly cost smile. Campaign follow black rather skill. Prove often example defense activity TV likely.",
+        "bio": "Foreign event rule shake become popular final. Space service meet large sea. The sound person before none social mention report."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
