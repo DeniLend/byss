@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Clark",
+    "age": 51,
+    "address": {
+        "street": "Michael Mall",
+        "city": "East Tiffany",
+        "state": "South Dakota",
+        "zip": "62839"
+    },
+    "contact": {
+        "phone": "+1-226-470-4756x574",
+        "servicePhone": "800498884"
+    },
+    "birthday": "1974-04-03",
+    "ip": "200.2.121.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Save and want necessary ball. Case old occur senior nation college.\nSure everyone seem themselves part adult tree. Answer end billion mean mission everyone include.",
+        "bio": "Society yourself choose. Standard serve probably my. Sound left energy eight game ten number interview. Ago boy professor such laugh machine."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
